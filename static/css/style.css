@@ -41,29 +41,17 @@ html,body{
 h1{
   font-family: 'Open Sans', sans-serif;
   text-align: center;
-  font-size: 50px;
-  font-weight: 300;
+	font-size: 38px;
+	font-weight: 700;
   margin: 0 0 10px 0;
 }
 
 
-h1 strong{
-  font-size: 38px;
-  font-weight: 700;
-}
-
 h2{
   color: #000000;
   text-align: center;
-  font-weight: 300;
   font-size: 20px;
 }
-
-h2 strong{
-  font-weight: 700;
-  font-style: italic;
-}
-
 
 .information{
   width: 480px;
@@ -73,7 +61,7 @@ h2 strong{
 
 h3{
   font-size: 28px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .information p{
@@ -95,7 +83,7 @@ h3{
   -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
   border: none;
   font-style: italic;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   color: #ffffff;
   padding: 15px;
@@ -132,7 +120,7 @@ h3{
   -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
   background: #ffffff;
   border: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-weight: bold;
   cursor: pointer;
